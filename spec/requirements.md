@@ -1,5 +1,5 @@
-# Ticket 1: Introduce customizable financial reports
+# Ticket 2: Implement alerts for bill payments
 
-Allow users to generate and customize financial reports based on their income, expenses, and goals. This feature will help users gain insights into their financial health and make informed decisions.
+Provide users with customizable alerts and reminders for upcoming bill payments to help them avoid late fees and manage their cash flow effectively.
 
-Reason: Customizable reports empower users to analyze their financial data effectively, promoting better financial literacy and decision-making.
+Reason: Payment alerts enhance user accountability and ensure timely financial management, supporting better budgeting practices.
